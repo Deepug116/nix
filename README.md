@@ -64,15 +64,15 @@ Check out the [contributing guide](https://github.com/NixOS/nix/blob/master/CONT
 ---
 
 Community & Support
-- **Documentation: [Nix Manual](https://nixos.org/manual/nix/stable/)  
+- Documentation: [Nix Manual](https://nixos.org/manual/nix/stable/)  
 - Chat: [Matrix](https://matrix.to/#/#nixos:nixos.org)  
 - Issues: [GitHub Issues](https://github.com/NixOS/nix/issues)  
 - Discussions: [NixOS Discourse](https://discourse.nixos.org/)  
 
 ---
 
-## **License**
+## License
 Nix is licensed under the [LGPL-2.1 License](https://www.gnu.org/licenses/lgpl-2.1.html).
 
-🚀 **Start using Nix today and take control of your package management!** 🚀
+ Start using Nix today and take control of your package management!
 
